@@ -29,7 +29,7 @@ set backspace=indent,eol,start	" Backspace behaviour
 
 syntax enable
 set background=dark
-colorscheme solarized
+colorscheme neonwave
 
 if has('mouse')
   set mouse=a
